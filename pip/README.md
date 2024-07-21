@@ -2,7 +2,7 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Sun Jul 21 14:09:01 CST 2024` | -
+`Sun Jul 21 15:24:16 CST 2024` | -
 
 升级到最新版本
 
@@ -15,6 +15,10 @@ python -m pip install --upgrade pip
 pip install ansible you-get
 pip install requests beautifulsoup4 lxml selenium
 pip install pytesseract Pillow
+```
+
+```bash
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple ansible
 ```
 
 ## Ref
