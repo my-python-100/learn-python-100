@@ -27,6 +27,13 @@ fish_add_path /usr/local/opt/python@3.11/libexec/bin
 sudo apt-get install -y python3-pip python3-dev
 ```
 
+
+## [http.server](https://docs.python.org/zh-cn/3/library/http.server.html)
+
+```bash
+python -m http.server 80
+```
+
 ## Ref
 
 * <https://www.python.org/>
